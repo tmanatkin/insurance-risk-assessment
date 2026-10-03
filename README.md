@@ -9,6 +9,8 @@ Home and auto insurance risk assessment with AI-generated recommendations.
 ![shadcn](https://img.shields.io/badge/shadcn-222222?style=for-the-badge&logo=shadcnui)
 ![Tailwind](https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss)
 
+<img src=".github/preview.png" width="640" alt="Insurance Risk Assessment">
+
 - Questionnaire that adapts to user answers
 - AI-written explanation of the assessment result
 - Accounts with saved assessment results
